@@ -1,2 +1,2 @@
 # Sorting-Algorithms
-Implementation of sorting algorithms
+Implementation of sorting algorithms in C
